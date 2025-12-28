@@ -2,7 +2,7 @@
 
 Развернуть тестирование, сборку и deployment на GitHub Actions и GitHub Pages.
 
-В качестве шаблона для развёртывания использовать [проект]([https://webpack.js.org/guides/](https://github.com/netology-code/ahj-code))
+В качестве шаблона для развёртывания использовать ([проект](https://github.com/netology-code/ahj-code))
 
 ## Инструкция:
 
