@@ -12,4 +12,5 @@
 1. Настроить новый репозиторий. Указать в нём использование GitHub Action для публикации приложения, вместо публикации из ветки (gh-pages)
 1. В файле REAME.md в строке:
 
-![CI](https://github.com/danroman-github/env/actionsweb.yml/badge.svg)
+[![Netology AHJ](https://github.com/danroman-github/env/actions/workflows/web.yml/badge.svg)](https://github.com/danroman-github/env/actions/workflows/web.yml)
+![CI](https://github.com/danroman-github/env/action/sweb.yml/badge.svg)
